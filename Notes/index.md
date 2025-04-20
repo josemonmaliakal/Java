@@ -12,11 +12,12 @@ Track your progress as you learn Java from the basics to building full-stack app
 
 ### 📚 Topics:
 - [ ] **Introduction to Java**
-    - [✅][JVM, JDK & JRE ](./jvm-jdk-jre.md)
-    - [✅] Java Installation & Hello World
-    - [✅] IDEs: IntelliJ / Eclipse / VSCode
+    - [✅] [JVM, JDK & JRE ](./jvm-jdk-jre.md)
+    - [✅] [Java Installation & Hello World](./installation.md)
+    - [✅] [IDEs: IntelliJ / Eclipse / VSCode](./ide.md)
 
 - [ ] **Basics**
+    - [✅][Basic User Inputs ](./userinputscanner.md)
     - [ ] Variables, Data Types
     - [ ] Operators, Type Casting
     - [ ] Conditional Statements (`if`, `switch`)
