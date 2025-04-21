@@ -11,14 +11,15 @@ Track your progress as you learn Java from the basics to building full-stack app
 - Write console-based applications
 
 ### 📚 Topics:
-- [ ] **Introduction to Java**
+- [✅] **Introduction to Java**
     - [✅] [JVM, JDK & JRE ](./jvm-jdk-jre.md)
     - [✅] [Java Installation & Hello World](./installation.md)
     - [✅] [IDEs: IntelliJ / Eclipse / VSCode](./ide.md)
 
 - [ ] **Basics**
     - [✅][Basic User Inputs ](./userinputscanner.md)
-    - [ ] Variables, Data Types
+    - [✅][ Variables, Data Types](./variables_and_datatypes.md)
+    - [✅][Reference Data Types](./reference_data_types.md)
     - [ ] Operators, Type Casting
     - [ ] Conditional Statements (`if`, `switch`)
     - [ ] Loops (`for`, `while`, `do-while`)
