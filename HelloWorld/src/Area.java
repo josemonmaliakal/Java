@@ -16,7 +16,7 @@ public class Area {
         // Calculator
         height = scanner.nextDouble();
         area = .5 * base * height;
-        System.out.println("Area calculated as "+area+" CM square");
+        System.out.println("Area calculated as "+area+" CM²");
         scanner.close();
 
 
