@@ -21,7 +21,7 @@ Track your progress as you learn Java from the basics to building full-stack app
     - [✅][Variables, Data Types](./variables_and_datatypes.md)
     - [✅][Reference Data Types](./reference_data_types.md)
     - [✅][Type Casting](./type_casting.md)
-    - [ ] Operators 
+    - [✅] [Operators](./operators.md) 
     - [ ] Conditional Statements (`if`, `switch`)
     - [ ] Loops (`for`, `while`, `do-while`)
 
