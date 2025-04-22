@@ -16,14 +16,14 @@ Track your progress as you learn Java from the basics to building full-stack app
     - [✅] [Java Installation & Hello World](./installation.md)
     - [✅] [IDEs: IntelliJ / Eclipse / VSCode](./ide.md)
 
-- [ ] **Basics**
-    - [✅][Basic User Inputs ](./userinputscanner.md)
-    - [✅][Variables, Data Types](./variables_and_datatypes.md)
-    - [✅][Reference Data Types](./reference_data_types.md)
-    - [✅][Type Casting](./type_casting.md)
+- [✅] **Basics**
+    - [✅] [Basic User Inputs ](./userinputscanner.md)
+    - [✅] [Variables, Data Types](./variables_and_datatypes.md)
+    - [✅] [Reference Data Types](./reference_data_types.md)
+    - [✅] [Type Casting](./type_casting.md)
     - [✅] [Operators](./operators.md) 
-    - [ ] Conditional Statements (`if`, `switch`)
-    - [ ] Loops (`for`, `while`, `do-while`)
+    - [✅] [Conditional Statements (`if`, `switch`)](./conditionals.md)
+    - [✅] [Loops (`for`, `while`, `do-while`)](./loops.md)
 
 - [ ] **Object-Oriented Programming**
     - [ ] Classes & Objects
